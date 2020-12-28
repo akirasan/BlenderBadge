@@ -1,0 +1,10 @@
+Id,Designator,Package,Quantity,Designation,Supplier and ref
+8,"L1,L2,L3,L4,L5,L6,L7,L8",ws2812_2020,8,ws2812_2020,
+9,R1,R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,1,10k,
+10,U1,SOIJ-8_5.3x5.3mm_P1.27mm,1,ATTINY85-20PU,
+11,BT1,BatteryHolder_Keystone_3034_1x20mm_MODIFICADA,1,Battery_Cell,
+12,"C1,C3,C4,C5,C6",C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,5,100nF,
+13,C2,C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,1,47uF,
+14,CON1,ISP_TestPoints,1,Programador_ISP,
+15,SW1,SW_SPST_TL3342,1,SW_Push,
+16,SW2,SWITCH_SPST_SMD_A,1,SW_SPST,
